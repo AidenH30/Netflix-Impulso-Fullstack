@@ -1,2 +1,2 @@
 # Netflix-Impulso-Fullstack
-### Repositório para a recriação de interface da Netflix 📺
+### Repositório para a recriação de interface da Netflix  📺
